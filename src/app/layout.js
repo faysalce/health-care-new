@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import AuthProvider from "./(with-navbar)/context/AuthProvider";
-import "./globals.css";
+import "./global.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
